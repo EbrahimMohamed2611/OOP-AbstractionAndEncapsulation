@@ -1,2 +1,2 @@
 # OOP-AbstractionAndEncapsulation
-![Abstraction and Encapsulation ](Abstract and Enacpsulation.png)
+![Abstraction and Encapsulation ](AbstractandEnacpsulation.png)
